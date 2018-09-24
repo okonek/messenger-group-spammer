@@ -1,0 +1,29 @@
+{
+  "name": "messenger-group-spammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okonek/messenger-group-spammer.git"
+  },
+  "keywords": [
+    "messenger",
+    "bot",
+    "spam",
+    "funny"
+  ],
+  "author": "okonek83 <jandominikokonski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okonek/messenger-group-spammer/issues"
+  },
+  "homepage": "https://github.com/okonek/messenger-group-spammer#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.6.0"
+  }
+}
